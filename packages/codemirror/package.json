@@ -61,7 +61,7 @@
     "@jupyter/ydoc": "^1.1.1",
     "@jupyterlab/codeeditor": "^4.1.1",
     "@jupyterlab/coreutils": "^6.1.1",
-    "@jupyterlab/documentsearch": "^4.1.1",
+    "@jupyterlab/documentsearch": "^1.0.0",
     "@jupyterlab/nbformat": "^4.1.1",
     "@jupyterlab/translation": "^4.1.1",
     "@lezer/common": "^1.0.2",
