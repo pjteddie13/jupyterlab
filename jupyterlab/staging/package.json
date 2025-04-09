@@ -172,7 +172,7 @@
     "@jupyterlab/markdownviewer-extension": "~4.1.1",
     "@jupyterlab/markedparser-extension": "~4.1.1",
     "@jupyterlab/mathjax-extension": "~4.1.1",
-    "@jupyterlab/mermaid-extension": "~4.1.1",
+    "@jupyterlab/mermaid-extension": "~4.4.0",
     "@jupyterlab/metadataform-extension": "~4.1.1",
     "@jupyterlab/notebook-extension": "~4.1.1",
     "@jupyterlab/pdf-extension": "~4.1.1",
