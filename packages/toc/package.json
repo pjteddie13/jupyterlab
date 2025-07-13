@@ -41,9 +41,9 @@
     "watch": "tsc -b --watch"
   },
   "dependencies": {
-    "@jupyterlab/apputils": "^4.2.1",
+    "@jupyterlab/apputils": "^3.5.1",
     "@jupyterlab/coreutils": "^6.1.1",
-    "@jupyterlab/docregistry": "^4.1.1",
+    "@jupyterlab/docregistry": "^3.0.0",
     "@jupyterlab/observables": "^5.1.1",
     "@jupyterlab/rendermime": "^4.1.1",
     "@jupyterlab/rendermime-interfaces": "^3.9.1",
