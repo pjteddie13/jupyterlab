@@ -42,9 +42,9 @@
     "watch": "npm run test -- --watch"
   },
   "dependencies": {
-    "@jupyterlab/apputils": "^4.2.1",
+    "@jupyterlab/apputils": "^3.5.1",
     "@jupyterlab/coreutils": "^6.1.1",
-    "@jupyterlab/docregistry": "^4.1.1",
+    "@jupyterlab/docregistry": "^3.0.0",
     "@jupyterlab/services": "^7.1.1",
     "@jupyterlab/statusbar": "^4.1.1",
     "@jupyterlab/translation": "^4.1.1",
