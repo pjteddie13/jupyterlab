@@ -38,7 +38,7 @@
     "watch": "tsc -w --listEmittedFiles"
   },
   "dependencies": {
-    "@jupyterlab/apputils": "^4.2.1",
+    "@jupyterlab/apputils": "^3.5.1",
     "@jupyterlab/translation": "^4.1.1",
     "@jupyterlab/ui-components": "^4.1.1",
     "@lumino/commands": "^2.2.0",
